@@ -12,7 +12,7 @@
 
 - **Linguagens:** Java, JavaScript, HTML, CSS
 - **Frameworks:** Spring Boot
-- **Banco de Dados:** SQL(MySQL, Postgres) NoSQL(MongoDB)
+- **Banco de Dados:** SQL(MySQL, PostgreSQL) NoSQL(MongoDB)
 - **Ferramentas:** Git, Docker, Postman
 
 ## Contato

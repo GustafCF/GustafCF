@@ -19,7 +19,7 @@
 
 Você pode me encontrar nas redes sociais:
 
-- [LinkedIn](https://www.linkedin.com/in/gustavo-c%C3%A9sar-franco-1375191b1/)
+- [LinkedIn](www.linkedin.com/in/gustavocesarfranco)
 - [Gmail](g.cesarfranco7@gmail.com)
 
 Sinta-se à vontade para entrar em contato!

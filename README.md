@@ -6,7 +6,7 @@
 - 💻 Estagiário no Instituto Nacional de Tecnologia da Informação (ITI)
 - 💻 Conhecimento em Java e Programação Orientada a Objetos (curso realizado na Udemy)
 - 🌱 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades
-- 🔭 Atualmente, estou trabalhando em projetos utilizando Spring Boot, JavaScript, e outras tecnologias
+- 🔭 Atualmente, estou trabalhando em projetos utilizando Spring Boot, Maven, e outras tecnologias
 
 ## Tecnologias
 
